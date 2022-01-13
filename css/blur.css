@@ -1,0 +1,27 @@
+
+.bg{
+    background-image: url('../img/2.jpg');
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+    position: absolute;
+    top: -30px;
+    left: -30px;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    filter: blur(30px);
+
+}
+.loading-text {
+    margin-top: 300px;
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+}
+h1{
+    position: relative;
+    top: 300px;
+    color: green;
+    /* background-color: coral; */
+}
